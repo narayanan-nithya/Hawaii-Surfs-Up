@@ -7,13 +7,13 @@
 From this sqlite data retrieval of precipitation and temperature for various observation stations in Hawaii, we analyzed that months of August and April sees the maximum precipitation. 
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/narayanan-nithya/Hawaii-Surfs-Up/blob/master/Precipitation%20Graph.png">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Hawaii-Surfs-Up/blob/master/Precipitation%20Graph.png">
 </p>
 
 This dataset also revealed that the most temperature observations have been seen the Station = ## WAIHEE 837.5, HI US with temperature ranging in 75-78 in the months of July, August, September and October respectively. 
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/narayanan-nithya/Hawaii-Surfs-Up/blob/master/Station%20Temperature%20Observations.png">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Hawaii-Surfs-Up/blob/master/Station%20Temperature%20Observations.png">
 </p>
 
 ## Flask API
